@@ -1,9 +1,15 @@
 # web-scraper
 
-As a first-year student @ PSU, I wanted to get involved in any way I canI went to the school's calendar. I went to their website
+As a first-year student at Penn State, I wanted to get involved and attend as many engineering events as possible.
 
-https://www.engr.psu.edu/events/
+Naturally, I went to the engineering events page and started manually adding each event to my calendar.
 
-![{C9272A98-CA9A-4175-9BA5-B355C1EB0406}](https://github.com/user-attachments/assets/ea03c009-9986-4104-9ca2-031bb5da860f)
+However, this quickly became tedious and time-consuming.
 
-![{C9272A98-CA9A-4175-9BA5-B355C1EB0406}](https://github.com/user-attachments/assets/ca4e0906-0eb5-42a8-a2df-6234ed8ae559)
+I thought, "There has to be a way to automate this process!"
+
+...
+
+A few Google searches and YouTube videos later, I started to build an original web scraper that extract events and relevant data from my school's events page.
+
+Additionally, my code converts this data into a .ics file (calendar file) that is automatically put into my personal calendar, saving time and making event tracking much easier.
