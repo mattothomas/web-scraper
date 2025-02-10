@@ -3,7 +3,7 @@ from firecrawl import FirecrawlApp
 from pydantic import BaseModel, Field
 from typing import Any, Optional, List
 
-app = FirecrawlApp(api_key='fc-8c8ecf8ac08946e1a223582f02e9db10')
+app = FirecrawlApp(api_key='[YOUR KEY HERE]')
 
 class NestedModel1(BaseModel):
     date: str
