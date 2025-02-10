@@ -12,4 +12,4 @@ A few Google searches and YouTube videos later, I started to build an original w
 
 Additionally, my code converts this data into a .ics file (calendar file) that is automatically put into my personal calendar, saving time and making event tracking much easier.
 
-[Untitled presentation-1.pdf](https://github.com/user-attachments/files/18729508/Untitled.presentation-1.pdf)
+![Untitled presentation-1-1](https://github.com/user-attachments/assets/5da9a087-927b-4f7b-9022-54ca4fbbff0b)
