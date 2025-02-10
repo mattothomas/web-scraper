@@ -11,3 +11,5 @@ I thought to myself, "There has to be a way to automate this process..."
 A few Google searches and YouTube videos later, I started to build an original web scraper that extract events and relevant data from my school's events page.
 
 Additionally, my code converts this data into a .ics file (calendar file) that is automatically put into my personal calendar, saving time and making event tracking much easier.
+
+[Untitled presentation-1.pdf](https://github.com/user-attachments/files/18729508/Untitled.presentation-1.pdf)
