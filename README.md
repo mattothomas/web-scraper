@@ -6,9 +6,7 @@ Naturally, I went to the engineering events page and started manually adding eac
 
 However, this quickly became tedious and time-consuming.
 
-I thought, "There has to be a way to automate this process!"
-
-...
+I thought to myself, "There has to be a way to automate this process..."
 
 A few Google searches and YouTube videos later, I started to build an original web scraper that extract events and relevant data from my school's events page.
 
