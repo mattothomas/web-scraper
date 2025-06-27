@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization or Product Name//EN
+BEGIN:VEVENT
+UID:unique-id@example.com
+DTSTAMP:20250522T161800Z
+DTSTART;TZID=America/New_York:20250523T090000
+DTEND;TZID=America/New_York:20250523T100000
+SUMMARY:This is a even title
+DESCRIPTION:This is a test description
+LOCATION:this is a test location
+END:VEVENT
+END:VCALENDAR
